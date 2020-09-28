@@ -1,0 +1,14 @@
+body{ 
+background-image:url(img/фото21.jpg); /* Путь к фоновому изображению */
+    background-color: #c7b39b;
+     background-attachment: fixed;
+     margin: 0;
+     padding: 0;
+     perspective: 1px;
+     transform-style: preserve-3d;
+     height: 100%;
+     overflow-y: scroll;
+     overflow-x: hidden;
+    width: 100%;
+     border-spacing: 0;  
+}
